@@ -1,2 +1,6 @@
 pip3 install django-import-export
 pip3 install django-ckeditor
+
+
+para subir el proyecto a heroku 
+pip3 install gunicorn
